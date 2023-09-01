@@ -1,4 +1,4 @@
-![test-automation-process-test-automation](https://github.com/IbrahimaDIALLOBowe/Capstone_Project_Guideline/assets/37409856/352b9d9f-bb04-440c-a03c-38f28a392481)
+## ![test-automation-process-test-automation](https://github.com/IbrahimaDIALLOBowe/Capstone_Project_Guideline/assets/37409856/352b9d9f-bb04-440c-a03c-38f28a392481)
 
 
 # Capstone_Project_Guideline
